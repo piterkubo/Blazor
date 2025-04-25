@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlzRenderModes", "BlzRenderModes\BlzRenderModes\BlzRenderModes.csproj", "{9BFD3A4B-E852-4694-AFBB-A31B143D323A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlzRenderModes.Client", "BlzRenderModes\BlzRenderModes.Client\BlzRenderModes.Client.csproj", "{2476600F-D014-4C3A-ACEC-26BA265FFD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BFD3A4B-E852-4694-AFBB-A31B143D323A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFD3A4B-E852-4694-AFBB-A31B143D323A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFD3A4B-E852-4694-AFBB-A31B143D323A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFD3A4B-E852-4694-AFBB-A31B143D323A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2476600F-D014-4C3A-ACEC-26BA265FFD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2476600F-D014-4C3A-ACEC-26BA265FFD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2476600F-D014-4C3A-ACEC-26BA265FFD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2476600F-D014-4C3A-ACEC-26BA265FFD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F14629-ABBF-4229-8C50-51C35D367C6E}
+	EndGlobalSection
+EndGlobal
